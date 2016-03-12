@@ -1,0 +1,22 @@
+.navbar-brand
+{
+	text-align: left;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#collapsable-nav
+{
+	background: #fff194;
+}
+
+.header
+{
+	text-align: center;
+}
+
+#main-content .content
+{
+	background: #666;
+	height: 1000px;
+}
