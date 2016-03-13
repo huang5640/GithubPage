@@ -8,7 +8,7 @@
 #collapsable-nav ul
 {
 	background: #fff194;
-	
+
 }
 
 .header
@@ -16,8 +16,17 @@
 	text-align: center;
 }
 
-#main-content .content
+
+.single-content
 {
-	background: #666;
-	height: 1000px;
+	border-style: solid;
+	border-color: #545454;
+	height: 700px;
+	margin: 10px 0;
+	padding: 5px;
+}
+
+.title
+{
+	text-align: center;
 }
